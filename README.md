@@ -5,7 +5,7 @@
 ### **[2. 의존성 역전하기](https://github.com/libedi/clean-architecture/blob/main/summary/02_inverting_dependencies.md)**
 ### **[3. 코드 구성하기](https://github.com/libedi/clean-architecture/blob/main/summary/03_organizing_code.md)**
 ### **[4. 유스케이스 구현하기](https://github.com/libedi/clean-architecture/blob/main/summary/04_implemeating_a_use_case.md)**
-### **5. 웹 어댑터 구현하기**
+### **[5. 웹 어댑터 구현하기](https://github.com/libedi/clean-architecture/blob/main/summary/05_implementing_a_web_adapter.md)**
 ### **6. 영속성 어댑터 구현하기**
 ### **7. 아키텍처 요소 테스트하기**
 ### **8. 경계 간 매핑하기**
